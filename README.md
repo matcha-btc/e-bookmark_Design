@@ -25,5 +25,5 @@ Arduinoによる代替
 https://github.com/yagijin/ebookmark_device
 
 ## デザイン（ロゴ＆アプリUI）
-https://github.com/matcha-btc/e-bookmark_Design/blob/master/design/android_ui.gif
+https://github.com/matcha-btc/e-bookmark_Design/blob/master/design/android_ui.gif  
 https://github.com/matcha-btc/e-bookmark_Design/blob/master/design/logo.PNG
