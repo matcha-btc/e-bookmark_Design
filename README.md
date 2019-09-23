@@ -7,9 +7,6 @@
 ## 仕様  
 https://github.com/KaiseiYokoyama/eBookmark-Standard
 
-## デザイン（ロゴ＆UI）
-
-
 ## フロントエンド（PC側）  
 https://github.com/masao1211/ebook  
 https://github.com/masao1211/ebook-individual  
@@ -26,3 +23,7 @@ https://github.com/KaiseiYokoyama/eBookmark-Backend
 OLED＆NFC  
 Arduinoによる代替  
 https://github.com/yagijin/ebookmark_device
+
+## デザイン（ロゴ＆アプリUI）
+https://github.com/matcha-btc/e-bookmark_Design/blob/master/design/android_ui.gif
+https://github.com/matcha-btc/e-bookmark_Design/blob/master/design/logo.png
